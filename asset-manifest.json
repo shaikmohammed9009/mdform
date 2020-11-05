@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/mdform/static/css/main.7c0c312d.chunk.css",
+    "main.js": "/mdform/static/js/main.5d9e1754.chunk.js",
+    "main.js.map": "/mdform/static/js/main.5d9e1754.chunk.js.map",
+    "runtime-main.js": "/mdform/static/js/runtime-main.1a88394f.js",
+    "runtime-main.js.map": "/mdform/static/js/runtime-main.1a88394f.js.map",
+    "static/js/2.e5891075.chunk.js": "/mdform/static/js/2.e5891075.chunk.js",
+    "static/js/2.e5891075.chunk.js.map": "/mdform/static/js/2.e5891075.chunk.js.map",
+    "index.html": "/mdform/index.html",
+    "static/css/main.7c0c312d.chunk.css.map": "/mdform/static/css/main.7c0c312d.chunk.css.map",
+    "static/js/2.e5891075.chunk.js.LICENSE.txt": "/mdform/static/js/2.e5891075.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a88394f.js",
+    "static/js/2.e5891075.chunk.js",
+    "static/css/main.7c0c312d.chunk.css",
+    "static/js/main.5d9e1754.chunk.js"
+  ]
+}
