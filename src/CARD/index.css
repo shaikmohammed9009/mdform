@@ -59,6 +59,11 @@ input {
 
 .btn-m:hover{
       background-color:green;
+      min-height: 40px;
+      width: 40px;
+      border-radius: 50%;
+      border: none;
+      outline: none;
 }
 
 ol{
@@ -95,16 +100,7 @@ li{
 @media only screen and (max-width: 600px){
     .c-div{
         background: cornsilk;
-        width: 70%;
-        height: 80vh;
-        border-radius: 10px;
-        box-shadow: 5px 15px 5px 3px rgba(0,0,0,0.6);
-    }
-}
-@media only screen and (max-width: 1000px){
-    .c-div{
-        background: cornsilk;
-        width: 40%;
+        width: 80%;
         height: 80vh;
         border-radius: 10px;
         box-shadow: 5px 15px 5px 3px rgba(0,0,0,0.6);

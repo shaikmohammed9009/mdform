@@ -1,8 +1,8 @@
 import React from "react";
 import './App.css';
-// import Cards from "./CARD/Cards";
+import Cards from "./CARD/Cards";
 // import EventH from "./Event";
-import MyForm from "./ShaikForm";
+// import MyForm from "./ShaikForm";
 
 
 const App = () => {
@@ -21,9 +21,9 @@ const App = () => {
     // <><h1>{mmtime}</h1></>
   //  <EventH />
 
-  <MyForm />
+  // <MyForm />
   
-  // <Cards />
+  <Cards />
 
   );
 }
